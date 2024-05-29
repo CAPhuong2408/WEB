@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michigan Facts</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Michigan</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="https://www.michigan.org/">Michigan Tourism</a></li>
+            <li><a href="#attractions">Popular Attractions</a></li>
+            <li><a href="#facts">Quick Facts</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="attractions">
+            <h2>Popular Attractions</h2>
+            <p>Michigan is home to various attractions, including:</p>
+            <ul>
+                <li>Mackinac Island</li>
+                <li>Great Lakes</li>
+                <li>Henry Ford Museum</li>
+            </ul>
+            <img src="mackinac_island.jpg" alt="Mackinac Island">
+            <img src="great_lakes.jpg" alt="Great Lakes">
+            <img src="ford_museum.jpg" alt="Henry Ford Museum">
+        </section>
+        <section id="facts">
+            <h2>Quick Facts</h2>
+            <p>Some quick facts about Michigan:</p>
+            <ul>
+                <li>Capital: Lansing</li>
+                <li>Largest City: Detroit</li>
+                <li>State Bird: American Robin</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Michigan Tourism Board</p>
+    </footer>
+</body>
+</html>
